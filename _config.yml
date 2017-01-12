@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Chirag's Blog"
 title_separator          : "-"
 name                     : "Chirag Mahapatra"
-description              : "An amazing website."
+description              : "This website contains notes for future reference."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Chirag Mahapatra"
   avatar           : "/assets/images/chirag_mahapatra_1.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Software Engineer @ Trooly. Interested in Machine Learning and NLP"
   location         : "San Francisco"
   email            :
   uri              :
