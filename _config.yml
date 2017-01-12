@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Chirag Mahapatra"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/chirag_mahapatra.jpg"
   bio              : "I am an amazing person."
   location         : "San Francisco"
   email            :
