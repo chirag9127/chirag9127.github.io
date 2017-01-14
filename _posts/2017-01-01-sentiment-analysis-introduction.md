@@ -21,6 +21,7 @@ Some of these tools can be generalized to text analysis and classification. E.g.
 These notes are going to cover different representations of text and different machine learning methods, with a goal to understand the cases in which a method would work well and why.
 
 Some of the methods which I will try to go through:
+
 - Bag of words with Naive Bayes
 - Bag of Bigrams with some text processing
 - Word Vector representation with Logistic Regression, SVM and multilayer perceptron
